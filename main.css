@@ -7,10 +7,16 @@
 }
 header{
     background-image: url("img/sadboy.jpg");
-    background-repeat: round;
-    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 80%;
     height: 400px;
     margin: 0;
+}
+
+header .heart img {
+    margin: 0 auto;
+    float: none;
 }
 .fixnavbar{
     margin-bottom: 0px;

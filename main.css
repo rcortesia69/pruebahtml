@@ -106,3 +106,37 @@ header .heart img {
     text-align: center;
     font-family: 'Crete Round', serif;
 }
+.footer{
+    max-height: 250px;
+    height: 100%;
+}
+.fixfooter{
+    background-color: black;
+    color: white;
+    padding-left: 0px;
+    border-top: solid 2px white;
+}
+iframe{
+    padding: 20px;
+    max-height: 200px;
+    padding-bottom: 0px;
+}
+.fixh4foo{
+    font-family: 'Pacifico', cursive;
+    color: white;
+    text-align: center;
+}
+.fixaside{
+    background-color: lightgrey;
+    height: 250px;
+    text-align: center;
+}
+.fixaside img{
+    width: 15%;
+    padding-top: 5%;
+}
+.fixline{
+    text-align: center;
+    color: black;
+    font-family: 'Crete Round', serif;
+}

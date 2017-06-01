@@ -142,3 +142,25 @@ iframe{
 }
 
 /* CSS DE NOTICIAS*/
+
+.imgnosotros1{
+    max-width: 400px;
+    width: 100%;
+    margin-top: 1%;
+    border: dashed 2px black;
+}
+.fixfund{
+    padding-top: 3%;
+    background-color: black;
+}
+.fiximgfun{
+    max-width: 300px;
+    max-height: 500px;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 3%;
+    border: solid 2px white;
+}
+.fixp{
+    color: white;
+}

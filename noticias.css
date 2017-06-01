@@ -106,6 +106,7 @@ header{
 .footer{
     max-height: 250px;
     height: 100%;
+    margin-right: 0px;
 }
 .fixfooter{
     background-color: black;
@@ -138,19 +139,10 @@ iframe{
     font-family: 'Crete Round', serif;
 }
 .fiximgnoticia{
-    max-width: 270px;
+    max-width: 150px;
     width: 100%;
     border: dashed 2px #195962;
-}
-.fiximgnoticia2{
-    max-width: 200px;
-    width: 100%;
-    border: dashed 2px #195962;
-}
-.fiximgnoticia3{
-    max-width: 230px;
-    width: 100%;
-    border: dashed 2px #195962;
+    margin-left: 20%;
 }
 .rectangulo{
     padding: 2% 5% 2% 5%;
@@ -162,4 +154,10 @@ iframe{
 }
 .jumbotron h3{
         font-family: 'Pacifico', cursive;
+}
+.center{
+    margin-left: 25%;
+}
+.fixrow{
+    margin-right: 0;
 }

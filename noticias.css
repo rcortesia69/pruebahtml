@@ -161,3 +161,8 @@ iframe{
 .fixrow{
     margin-right: 0;
 }
+.imgnoti3{
+    max-width: 400px;
+    width: 100%;
+    padding-top: 3%;
+}

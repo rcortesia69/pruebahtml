@@ -18,6 +18,10 @@ header .heart img {
     margin: 0 auto;
     float: none;
 }
+.fixbody{
+    margin:0px;
+    padding: 0px;
+}
 .fixnavbar{
     margin-bottom: 0px;
 }
@@ -38,68 +42,55 @@ header .heart img {
     background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 300px;
+    background-position: 40%;
+    margin:0px;
 }
 .notice1{
-    text-align: left;
-    background-color: white;
     margin-top: 2%;
-    margin-left: 20%;
-    border: solid 2px black;
-    height: 260px;
 }
 .notice1 img{
     width: 100%;
 }
 .notice2{
-    text-align: left;
-    background-color: white;
     margin-top: 2%;
-    margin-left: 2%;
-    border: solid 2px black;
-    height: 260px;
 }
 .notice2 img{
-    width: 100%;
+    width: 85%;
 }
 .notice3{
-    text-align: left;
-    background-color: white;
     margin-top: 2%;
-    margin-left: 2%;
-    border: solid 2px black;
-    height: 260px;
 }
 .notice3 img{
-    width: 100%;
+    width: 95%;
     padding-top: 2px;
 }
 .titulonoticias{
     font-family: 'Pacifico', cursive;
     color: white;
-    margin: 0;
-    font-size: 50px;
-    padding-top: 8%;
-    float: left;
-    padding-left: 10%;
+
+    padding-top: 7%;
+    padding-left: 5%;
 }
 .noticias2{
     background-image: url("img/noticias2.png");
     background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 300px;
+    background-position: 40%;
+    margin:0px;
 }
 .nosotros1{
-    float:right;
     font-family: 'Pacifico', cursive;
     color: white;
-    padding-top: 8%;
-    padding-right: 10%;
-    font-size: 50px;
+    /*padding-top: 8%;
+    padding-right: 10%;*/
+    font-size: 30px;
+    padding-top: 5%;
+    padding-left: 5%;
 }
 .qsomos{
-    width: 40%;
+    padding-right: 5%;
+    padding-left: 5%;
     padding-top: 1.5%;
 }
 .qsomos h3{
@@ -109,17 +100,24 @@ header .heart img {
 .footer{
     max-height: 250px;
     height: 100%;
+    margin:0px;
+}
+.fixfooternoso{
+    margin: 0;
+    padding: 0;
 }
 .fixfooter{
     background-color: black;
     color: white;
     padding-left: 0px;
-    border-top: solid 2px white;
+    border-top: dashed 2px white;
+    padding: 0;
 }
 iframe{
     padding: 2%;
     max-height: 200px;
     padding-bottom: 0px;
+    width: 100%;
 }
 .fixh4foo{
     font-family: 'Pacifico', cursive;
@@ -152,6 +150,7 @@ iframe{
 .fixfund{
     padding-top: 3%;
     background-color: black;
+    margin:0px;
 }
 .fiximgfun{
     max-width: 300px;
